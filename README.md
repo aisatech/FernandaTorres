@@ -10,14 +10,14 @@ Built with [Cloudflare Workers](https://workers.cloudflare.com/).
 
 ```json
 {
-  "quote": "I feel like I'm too busy writing history to read it."
+  "quote": "Amiga, se a gente não se ajudar, quem vai? - Fernanda Torres | Fátima. Tapas e Beijos"
 }
 ```
 
 ### `GET` [https://api.fernanda.rest/text](https://api.fernanda.rest/text)
 
 ```text
-The world is our office
+⁠A vida presta, e muito!
 ```
 
 ### `GET` [https://api.fernanda.rest/quotes](https://api.fernanda.rest/quotes)
@@ -37,7 +37,7 @@ The world is our office
 ## Development
 
 ```shell
-pnpm dev
+Pnpm dev
 ```
 
 ## License
