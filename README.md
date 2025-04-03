@@ -28,8 +28,8 @@ Built with [Cloudflare Workers](https://workers.cloudflare.com/).
 ```ts
 [
     ...,
-    "I leave my emojis bart Simpson color",
-    "I love sleep; it's my favorite.",
+    "⁠A vida presta, e muito!",
+    "O amor nada tem de etéreo, é carne, é físico, e brutal.",
     ...,
 ]
 ```
