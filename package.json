@@ -2,7 +2,7 @@
   "name": "fernandatorres-rest",
   "version": "2.0.0",
   "author": "Isabelle Oliveira forked from Andrew Jazbec",
-  "description": "A free REST API for random Kanye West quotes (Kanye as a Service)",
+  "description": "A free REST API for random Fernanda Torres quotes (fernanda as a Service)",
   "license": "MIT",
   "scripts": {
     "deploy": "wrangler deploy",

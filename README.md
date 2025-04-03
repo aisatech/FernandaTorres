@@ -1,12 +1,12 @@
-# [kanye.rest](https://kanye.rest)
+# [fernanda.rest](https://fernanda.rest)
 
-A free REST API for random Kanye West quotes (Kanye as a Service).
+A free REST API for random Fernanda Torres quotes (fernanda as a Service).
 
 Built with [Cloudflare Workers](https://workers.cloudflare.com/).
 
 ## Usage
 
-### `GET` [https://api.kanye.rest](https://api.kanye.rest)
+### `GET` [https://api.fernanda.rest](https://api.fernanda.rest)
 
 ```json
 {
@@ -14,13 +14,13 @@ Built with [Cloudflare Workers](https://workers.cloudflare.com/).
 }
 ```
 
-### `GET` [https://api.kanye.rest/text](https://api.kanye.rest/text)
+### `GET` [https://api.fernanda.rest/text](https://api.fernanda.rest/text)
 
 ```text
 The world is our office
 ```
 
-### `GET` [https://api.kanye.rest/quotes](https://api.kanye.rest/quotes)
+### `GET` [https://api.fernanda.rest/quotes](https://api.fernanda.rest/quotes)
 
 > [!WARNING]  
 > This response format may change.
