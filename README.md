@@ -2,7 +2,8 @@
 
 A diva está servindo mesmo! :sparkles: :microphone: :boom: 
 
-REST API gratuita com frases da Fernanda Torres, retiradas de seus personagens, livros, entrevistas e discursos. 
+REST API gratuita para servir frases da Fernanda Torres para sua aplicação ou apenas para sua diversão.
+As frases foram retiradas de seus personagens, livros, entrevistas e discursos. 
 
 [!ATENÇÃO:] Aqui é o Brasil! O Readme é em português e a API também. 
 
@@ -26,7 +27,7 @@ A API é disponibilizada para o mundo com o serviço supimpa do [Cloudflare Work
 
 ### `GET` [https://api.fernanda.rest/quotes](https://api.fernanda.rest/quotes)
 
-> [!WARNING]  
+> [!ATENÇÃO]  
 > Os dados podem vir em outros formatos.
 
 ```ts
