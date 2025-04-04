@@ -1,5 +1,5 @@
 #:schema node_modules/wrangler/config-schema.json
-name = "fernanda-torrest"
+name = "fernanda-torres"
 main = "src/index.ts"
 
 compatibility_date = "2024-05-29"
