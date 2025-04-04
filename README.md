@@ -39,7 +39,10 @@ A API é disponibilizada para o mundo com o serviço supimpa do [Cloudflare Work
 ]
 ```
 
-## Development
+## Desenvolvimento
+
+Aqui eu adicionei um molhinho no terminal. 
+Recomendo fortemente clonar e rodar no seu localhost.
 
 ```shell
 pnpm dev 
@@ -53,6 +56,8 @@ npm run dev
 ## License
 
 MIT 
-Use tudo, só não pode tentar ganhar dinheiro com meu Saas ein? 
+Use tudo na paz, dando os créditos para o divo de quem fiz o fork. 
+Se for usar algo exclusivo desse repositório, é tudo nosso. ☭
+
 
 
