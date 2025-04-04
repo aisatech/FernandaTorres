@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "deploy": "wrangler deploy",
-    "dev": "wrangler dev",
+    "dev": "node scripts/dev.js",
     "test": "vitest",
     "cf-typegen": "wrangler types"
   },

@@ -1,16 +1,20 @@
 # [fernanda.rest](https://fernanda.rest)
 
-A free REST API for random Fernanda Torres quotes (fernanda as a Service).
+A diva está servindo mesmo! :sparkles: :microphone: :boom: 
 
-Built with [Cloudflare Workers](https://workers.cloudflare.com/).
+REST API gratuita com frases da Fernanda Torres, retiradas de seus personagens, livros, entrevistas e discursos. 
 
-## Usage
+[!ATENÇÃO:] Aqui é o Brasil! O Readme é em português e a API também. 
+
+A API é disponibilizada para o mundo com o serviço supimpa do [Cloudflare Workers](https://workers.cloudflare.com/).
+
+## Usabilidade
 
 ### `GET` [https://api.fernanda.rest](https://api.fernanda.rest)
 
 ```json
 {
-  "quote": "Amiga, se a gente não se ajudar, quem vai? - Fernanda Torres | Fátima. Tapas e Beijos"
+  "quote": "Amiga, se a gente não se ajudar, quem vai? - Fátima (Fernanda Torres) - Tapas e Beijos"
 }
 ```
 
@@ -23,7 +27,7 @@ Built with [Cloudflare Workers](https://workers.cloudflare.com/).
 ### `GET` [https://api.fernanda.rest/quotes](https://api.fernanda.rest/quotes)
 
 > [!WARNING]  
-> This response format may change.
+> Os dados podem vir em outros formatos.
 
 ```ts
 [
@@ -37,9 +41,17 @@ Built with [Cloudflare Workers](https://workers.cloudflare.com/).
 ## Development
 
 ```shell
-Pnpm dev
+pnpm dev 
+```
+ou 
+
+```node
+npm run dev 
 ```
 
 ## License
 
-MIT
+MIT 
+Use tudo, só não pode tentar ganhar dinheiro com meu Saas ein? 
+
+
