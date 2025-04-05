@@ -1,4 +1,4 @@
-# [fernanda.rest](https://fernanda.rest)
+# [fernanda.rest](https://fernanda-torres.isabelleoliveiradesign.workers.dev/)
 
 A diva está servindo mesmo! :sparkles: :microphone: :boom: 
 
@@ -11,7 +11,7 @@ A API é disponibilizada para o mundo com o serviço supimpa do [Cloudflare Work
 
 ## Usabilidade
 
-### `GET` [https://api.fernanda.rest](https://api.fernanda.rest)
+### `GET` [https://api.fernanda.rest](https://fernanda-torres.isabelleoliveiradesign.workers.dev/)
 
 ```json
 {
@@ -19,13 +19,13 @@ A API é disponibilizada para o mundo com o serviço supimpa do [Cloudflare Work
 }
 ```
 
-### `GET` [https://api.fernanda.rest/text](https://api.fernanda.rest/text)
+### `GET` [https://api.fernanda.rest/text](https://fernanda-torres.isabelleoliveiradesign.workers.dev/text)
 
 ```text
 ⁠A vida presta, e muito!
 ```
 
-### `GET` [https://api.fernanda.rest/quotes](https://api.fernanda.rest/quotes)
+### `GET` [https://api.fernanda.rest/quotes](https://fernanda-torres.isabelleoliveiradesign.workers.dev/quotes)
 
 > [!ATENÇÃO]  
 > Os dados podem vir em outros formatos.
